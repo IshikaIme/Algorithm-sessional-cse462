@@ -58,4 +58,3 @@ end_time = time.perf_counter_ns()
 elapsed_time = end_time - start_time
 print(f"Elapsed time: {elapsed_time} nanoseconds")
 	
-# This code is contributed by Rajput-Ji
